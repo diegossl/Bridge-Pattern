@@ -2,7 +2,7 @@
   <img src="https://refactoring.guru/images/patterns/cards/bridge-mini.png"/>
 <p/>
 
-# Padrão de projeto ponte
+# Padrão de projeto Bridge
 
 Bridge é um padrão de design estrutural que permite dividir uma classe grande ou um conjunto de classes estreitamente relacionadas em duas hierarquias separadas - abstração e implementação - que podem ser desenvolvidas independentemente uma da outra.
 
